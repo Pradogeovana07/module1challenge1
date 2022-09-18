@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* ASKBCS ASSISTANT UTILIZED FLEXBOX TO HELP CORRECT CODE */
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -30,14 +30,13 @@ body {
     
 }
 
-.header nav ul li {
-    margin: 10px
+span {
+    color: #d9dcd6;
 }
-
 .header nav ul li {
     padding-top: 15px;
     margin-right: 20px;
-    
+    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     
@@ -47,11 +46,11 @@ body {
     list-style-type: none;
 }
 
-/* confirm before removal 
+
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-} */
+} 
 
 a {
     color: #ffffff;
