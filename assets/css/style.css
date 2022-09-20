@@ -29,7 +29,7 @@ body {
     display: flex;
     
 }
-
+/* removed the div as it was not needed */
 span {
     color: #d9dcd6;
 }
@@ -98,6 +98,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated alike classes */
 .benefit-lead,.benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -109,7 +110,7 @@ p {
     text-align: center;
 }
 
-
+/* consolidated images */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
