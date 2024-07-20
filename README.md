@@ -1,4 +1,4 @@
-# module1challenge1
+# Website from scratch
 When working on this website, my goal was to implement the following user story: 
 
 ## User Story
